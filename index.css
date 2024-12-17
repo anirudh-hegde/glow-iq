@@ -1,0 +1,30 @@
+/* body {
+  } */
+  
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    /* text-align: center; */
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.footer {
+    margin-top: 10vw;
+}
+
+.game-over {
+    opacity: 0.2;
+    background-color: gray;
+}
+/* 
+body {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+} */
